@@ -48,8 +48,8 @@ chartLoad = True
 
 style.use("ggplot")
 
-api_key = 'vNSi2ulNVJi6ZpG8Fh23VWv6oDDwpiLJpHeUbMFL17xKfu0cDvKK0Ek6H9xG0WCZ'
-sec_key = 'teOpkDsKwG7zHUKyTarsqxRFOhzyBVpehvXBryOj86M6DZ6JrF3w80PQxENUYYcW'
+api_key = ''
+sec_key = ''
 
 # initiating the API Client
 client = Client(api_key, sec_key)
